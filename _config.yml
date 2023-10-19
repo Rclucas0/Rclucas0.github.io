@@ -13,4 +13,4 @@ show_social: true
 # Menu
 
 navigation:
-  - {file: "index.html", title: About Me,}
+  - {file: "index.html", title: "About Me",}
