@@ -5,7 +5,12 @@ description: Bookmark this to keep an eye on my project updates!
 
 
 
+# layout
+show_social: true
 
 
 
+# Menu
 
+navigation:
+  - {file: "index.html", title: About Me,}
